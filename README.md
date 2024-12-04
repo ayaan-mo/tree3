@@ -1,4 +1,4 @@
-# tree3
+# Tree3
 
 To leverage the capabilities of The Graph, an indexing protocol for querying blockchain data, I initiated by deploying a custom subgraph tailored explicitly for interacting with the CryptoPunks dataset. This subgraph is designed to interpret and organize the data about CryptoPunks, a pioneering non-fungible token (NFT) project on the Ethereum blockchain. Once deployed, the subgraph served as an open API, enabling me to compose structured queries using GraphQL, a query language for APIs that provides a complete and understandable data description.
 
